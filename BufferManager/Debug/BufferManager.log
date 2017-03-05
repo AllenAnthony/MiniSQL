@@ -1,0 +1,22 @@
+﻿生成启动时间为 6/13/2016 01:29:37。
+     1>项目“C:\Users\asus\Desktop\BufferManager\BufferManager\BufferManager.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /D "_CRT_SECURE_NO_DEPRECATE" BufferManager.cpp BufferManager.h IndexManager.cpp main.cpp
+         BufferManager.h
+         BufferManager.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         main.cpp
+         IndexManager.cpp
+       Link:
+         D:\Visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asus\Desktop\BufferManager\Debug\BufferManager.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\asus\Desktop\BufferManager\Debug\BufferManager.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asus\Desktop\BufferManager\Debug\BufferManager.lib" /MACHINE:X86 Debug\BufferManager.obj
+         Debug\BufferManager.obj
+         Debug\IndexManager.obj
+         Debug\main.obj
+     1>Debug\BufferManager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+         BufferManager.vcxproj -> C:\Users\asus\Desktop\BufferManager\Debug\BufferManager.exe
+     1>已完成生成项目“C:\Users\asus\Desktop\BufferManager\BufferManager\BufferManager.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.79
